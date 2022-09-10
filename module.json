@@ -25,8 +25,7 @@
 		"/styles/ATL.css"
 	  ],
 	"url": "https://github.com/kandashi/Active-Token-Lighting",
-	"manifest": "https://raw.githubusercontent.com/kandashi/Active-Token-Lighting/main/module.json",
-	"download": "https://github.com/kandashi/Active-Token-Lighting/archive/main.zip",
-	"allowBugReporter": true,
-	"bugs": "https://github.com/kandashi/Active-Token-Lighting/issues"
+	"manifest": "https://raw.githubusercontent.com/poser/Active-Token-Lighting/main/module.json",
+	"download": "https://github.com/poser/Active-Token-Lighting/archive/main.zip",
+	"allowBugReporter": false
 }
